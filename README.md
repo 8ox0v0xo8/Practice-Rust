@@ -1,6 +1,6 @@
-# PracticeRust
+# Practice-Rust
 
-- [PracticeRust](#practicerust)
+- [Practice-Rust](#practice-rust)
   - [r01](#r01)
   - [guessing\_game](#guessing_game)
 
